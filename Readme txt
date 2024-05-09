@@ -1,0 +1,19 @@
+                                   
+                                   
+#=============================================
+#            Flask Server 
+#                              #[By Aabit]   
+#     Thank  You Upcode Support Team   
+#=============================================
+
+.................Usage......................
+                                   
+                    GET request to http://127.0.0.1:5000/api/products  will return all products.
+
+                 GET request to http://localhost:5000/api/products/1 will return the product with {"id"} 1
+
+                          POST request to http://localhost:5000/api/products with JSON payload
+
+   PUT request to http://localhost:5000/api/products/1 with JSON payload {"price": 500.99} will update the price of the product with ID
+       
+                 DELETE request to http://localhost:5000/api/products/1 will delete the product with ID 1.
